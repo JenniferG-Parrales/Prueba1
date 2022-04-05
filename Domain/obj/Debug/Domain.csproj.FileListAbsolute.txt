@@ -1,0 +1,18 @@
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.Properties.Resources.resources
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.pdb
+D:\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.exe.config
+D:\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.exe
+D:\Prueba1-main\WeatherAPP\Domain\bin\Debug\Domain.pdb
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.Properties.Resources.resources
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.exe
+D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.pdb
