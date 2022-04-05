@@ -1,0 +1,30 @@
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.Properties.Resources.resources
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.exe.config
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.exe
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.exe
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Newtonsoft.Json.dll
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.pdb
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Domain.exe.config
+D:\Prueba1-main\WeatherAPP\Infraestructure\bin\Debug\Newtonsoft.Json.xml
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.Properties.Resources.resources
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.exe
+D:\Prueba1-main\WeatherAPP\Infraestructure\obj\Debug\Infraestructure.pdb
