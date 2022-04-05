@@ -1,0 +1,78 @@
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Buffers.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Memory.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.exe.config
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.pdb
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Buffers.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Memory.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.AssemblyReference.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.Form1.resources
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.Properties.Resources.resources
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.GenerateResource.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.CoreCompileInputs.cache
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.CopyComplete
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.exe
+C:\Users\LEGION Y540\Downloads\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.exe.config
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.exe
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\WeatherAPP.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.exe
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.exe
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.exe
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Buffers.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Memory.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Newtonsoft.Json.dll
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\AppCore.exe.config
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Domain.exe.config
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Infraestructure.exe.config
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.pdb
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Autofac.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Buffers.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Memory.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\bin\Debug\Newtonsoft.Json.xml
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.AssemblyReference.cache
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.Form1.resources
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.Properties.Resources.resources
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.GenerateResource.cache
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.CoreCompileInputs.cache
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.csproj.CopyComplete
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.exe
+D:\Prueba1-main\WeatherAPP\WeatherAPP\obj\Debug\WeatherAPP.pdb
