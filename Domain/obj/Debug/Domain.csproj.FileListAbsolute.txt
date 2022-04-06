@@ -16,3 +16,12 @@ D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
 D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.exe
 D:\Prueba1-main\WeatherAPP\Domain\obj\Debug\Domain.pdb
+C:\Users\User\Source\Repos\Prueba1\Domain\bin\Debug\Domain.exe.config
+C:\Users\User\Source\Repos\Prueba1\Domain\bin\Debug\Domain.exe
+C:\Users\User\Source\Repos\Prueba1\Domain\bin\Debug\Domain.pdb
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.Properties.Resources.resources
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.exe
+C:\Users\User\Source\Repos\Prueba1\Domain\obj\Debug\Domain.pdb

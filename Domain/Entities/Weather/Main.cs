@@ -11,7 +11,7 @@ namespace Domain.Entities.Weather
         public double Temp { get; set; }
         public double Temp_Min { get; set; }
         public double Temp_Max { get; set; }
-        public double Preasure { get; set; }
+        public double Pressure { get; set; }
         public double Humedity { get; set; }
         public int Visibility { get; set; }
         public int TimeZone { get; set; }
