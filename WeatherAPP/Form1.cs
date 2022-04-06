@@ -31,16 +31,16 @@ namespace WeatherAPP
         {
             try
             {
-                Root root = weatherService.GetWeather(textBox1.Text);
+                var root = weatherService.GetWeather(textBox1.Text);
                 pictureBox1.ImageLocation = "https://openweathermap.org/img/w/" + root.weather[0].Icon + ".png";
                 lblCondition.Text = root.weather[0].Main;
                 lblDetails.Text = root.weather[0].Description;
                 lblSunrise.Text = converttt(root.sys.Sunrise).ToShortTimeString();
                 lblSunset.Text = converttt(root.sys.Sunset).ToShortTimeString();
-                lblPessure.Text = root.main.Preasure.ToString();
+                lblPessure.Text = root.main.Pressure.ToString();
                 lblWind.Text = root.wind.Speed.ToString();
                 lblTemp.Text = (root.main.Temp - 273).ToString() + " C°";
-                //lblTemp.Text = root.main.Temp.ToString() + "°C";
+       
                 lbl4MinTem.Text = (root.main.Temp_Max - 273).ToString() + "°C";
                 lbl5MaxTem.Text = (root.main.Temp_Min - 273).ToString() + "°C";
             }

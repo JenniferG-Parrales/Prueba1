@@ -284,7 +284,7 @@ namespace WeatherAPP
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(904, 482);
+            this.ClientSize = new System.Drawing.Size(973, 521);
             this.Controls.Add(this.lblTemp);
             this.Controls.Add(this.lbl5MaxTem);
             this.Controls.Add(this.lbl4MinTem);
